@@ -1,11 +1,5 @@
 <h1 align="center">Writeup — FGTE 2025</h1>
 
-<p align="center">
-  <i>Future Generation of Technology Enthusiast — Capture The Flag</i><br>
-  Dokumentasi penyelesaian oleh <b>Bagaskara Amukti Palapa</b>
-</p>
----
-
 ## Ringkasan
 
 Repositori ini memuat *writeup* lengkap untuk **lima challenge** yang saya selesaikan di **FGTE 2025**, mencakup kategori **Forensics**, **Misc**, **Reverse Engineering**, dan **Web**. Setiap writeup ditulis langkah demi langkah — dari *reconnaissance*, analisis kerentanan, eksploitasi, hingga mitigasi — disertai bukti (tangkapan layar, berkas artefak, dan skrip yang dapat dijalankan ulang).
