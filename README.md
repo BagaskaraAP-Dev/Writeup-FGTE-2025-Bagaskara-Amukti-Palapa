@@ -4,16 +4,6 @@
   <i>Future Generation of Technology Enthusiast — Capture The Flag</i><br>
   Dokumentasi penyelesaian oleh <b>Bagaskara Amukti Palapa</b>
 </p>
-
-<p align="center">
-  <a href="https://github.com/BagaskaraAP-Dev">
-    <img src="https://img.shields.io/badge/author-BagaskaraAP--Dev-1A1B27?style=flat-square&logo=github&logoColor=7AA2F7&labelColor=1A1B27" alt="GitHub">
-  </a>
-  <img src="https://img.shields.io/badge/event-FGTE%202025-7AA2F7?style=flat-square" alt="Event">
-  <img src="https://img.shields.io/badge/challenges-5%20solved-9ECE6A?style=flat-square" alt="Solved">
-  <img src="https://img.shields.io/badge/categories-Forensics%20%7C%20Misc%20%7C%20RE%20%7C%20Web-FF7043?style=flat-square" alt="Categories">
-</p>
-
 ---
 
 ## Ringkasan
