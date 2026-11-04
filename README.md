@@ -98,8 +98,3 @@ Semua flag **terverifikasi**.
 - Konten ini dibuat untuk **dokumentasi dan pembelajaran** keamanan siber. Seluruh pengujian dilakukan terhadap target resmi masing-masing challenge dalam konteks kompetisi.
 
 ---
-
-<p align="center">
-  <b>Bagaskara Amukti Palapa</b> · <a href="https://github.com/BagaskaraAP-Dev">@BagaskaraAP-Dev</a><br>
-  <sub>Keep learning, keep building. 🔥</sub>
-</p>
