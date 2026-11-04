@@ -1,0 +1,32 @@
+=========================================================================
+ DECOY ANALYSIS - /static/waifu_aria.jpeg  (semua FGTE{...} di sini PALSU)
+=========================================================================
+
+[1] JPEG COM segment
+    FGTE{D3c0y_B4ng_E4aaaa}                 -> "Decoy Bang" (umpan)
+
+[2] EXIF  XPComment (tag 0x9C9C, UTF-16LE)
+    "FLAG Sepertinya ada di Akhir Filee.."  -> mengarahkan ke EOF (umpan)
+
+[3] Trailing data setelah EOI (0xFFD9)  --> profil "# My Kisah"
+    # My Kisah
+    name: Kumiko Oumae
+    nickname: Kumiko
+    birthdate: 15 April 2000
+    school: Kitauji High School
+    likes:
+      - euphonium
+    # ---------------------------------------
+    flag: FGTE{D3c0Y_7uG4_H3H3_C0ba_C4r1_L4G1}   -> "Decoy juga hehe, coba cari lagi"
+
+-------------------------------------------------------------------------
+ BUKTI tidak ada steganografi piksel
+-------------------------------------------------------------------------
+ - /static/kumiko.jpeg  dan  /static/waifu_aria.jpeg  punya SCAN DATA
+   (koefisien DCT) yang IDENTIK byte-per-byte (126071 bytes). Satu-satunya
+   beda = segmen metadata (APP1/COM/trailer) di waifu_aria.
+   => mustahil ada embed steghide/outguess/F5 (mereka mengubah DCT).
+ - steghide/stegseek (rockyou 14,3jt + 5rb kata tema) + outguess: NIHIL.
+
+ KESIMPULAN: gambar = JEBAKAN. Yang penting cuma teks "personal data"
+ (profil Kumiko) --> dipakai sebagai bahan wordlist cupp untuk crack JWT.
